@@ -1,0 +1,62 @@
+INSTRUCTIONS:
+
+CONTROLLS:
+- Player1                     ; Player2
+- Directions:    w, a, s, d   ; o, k, l, ö     (German Keyboard)
+- Attackbuttons: e, r, f      ; i, u, j        (light, medium, heavy)
+- Roman Cancel:  x            ; m
+- easy Specials: y            ; ","            (if easyMode in menu activated)
+- c: open Hitboxeditor
+- v: close Hitboxeditor
+- B: activate Player2 AI/ now option in menu
+- P: to reconnect/connect Gamepads
+- Spacebar: opening and closing menu
+
+- Gamepads are supported to some extend 
+(the PS4 Dualshock and Hori Switch cable controller work)
+- should a controller get disconnected, then the programm needs to be restarted
+ to let the game recognize the controller again 
+
+MOVELIST:
+
+Light (L), Medium (M), Heavy (H)
+
+Familyhouse:
+
+DP (Air Ok): 623|63236 H
+BedFB (Air Ok): 236 L
+H.L.J.P. (Air only): 214 L
+Swim (Air Ok): 214 H
+
+Super:
+Family Ghost Ball: 236236 M
+
+Capi Skyscraper:
+
+PlaneFB: 236 L
+AntiAirGrab: 214 L
+StonksRocket: 4(backcharge) -> 6(release) H
+
+Caravan:
+
+(Normal stance)
+Fernlicht: 214 M
+Caravan Salto: reach high forward speed + H -> car stance
+
+(Car stance)
+Caravan Salto: reach high forward speed + H
+Cancel stance: 22
+
+Outhouse:
+
+quick snack: 214 L 
+Wandrüttler (Air Ok): 214 M
+Fart Punch: 236 M
+Moonbringer: 236 H
+(Air only)
+Air ramming attack:
+236 L (forward)
+214 L (backward)
+236 H (diagonally up forward)
+214 H (diagonally down forward)
+

@@ -1,0 +1,29 @@
+{
+"BoxsSize": 2,
+
+"whenUpd0": 6,
+  "bodyfx0": 20,
+  "bodyfy0": 20,
+"HiLListSize0": 1,
+  "HiBox0ax0": 100,
+  "HiBox0ay0": -100,
+  "HiBox0d0": 150,
+  "HiBox0fx0": 2,
+  "HiBox0fy0": 2,
+"HuLListSize0": 1,
+  "HuBox0ax0": -4,
+  "HuBox0ay0": -25,
+  "HuBox0d0": 250,
+
+"whenUpd1": 6, "bodyfx1": 10, "bodyfy1": 6,
+"HiLListSize1": 1,
+  "HiBox1ax0": -4,
+  "HiBox1ay0": -25,
+  "HiBox1d0": 40,
+  "HiBox1fx0": 2,
+  "HiBox1fy0": 2,
+"HuLListSize1": 1,
+  "HuBox1ax0": -4,
+  "HuBox1ay0": -25,
+  "HuBox1d0": 40
+}

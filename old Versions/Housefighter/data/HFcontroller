@@ -1,0 +1,8 @@
+Wireless Controller
+DPAD	directional Movement	2	HAT	cooliehat: Mehrwegeschalter	0	1.0	0.0
+LIGHT	Light Attack	1	BUTTON	Taste 0	0	0.0	0.0
+MEDIUM	Medium Attack	1	BUTTON	Taste 3	0	0.0	0.0
+HEAVY	Heavy Attack	1	BUTTON	Taste 2	0	0.0	0.0
+RC	cancels Move	1	BUTTON	Taste 4	0	0.0	0.0
+LSTICK-Y	left Anologstick move y-axis	3	SLIDER	Y-Achse	0	1.0	0.0
+LSTICK-X	left Anologstick move x-axis	3	SLIDER	X-Achse	0	1.0	0.0
